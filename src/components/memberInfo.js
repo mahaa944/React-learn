@@ -1,0 +1,55 @@
+const companyMembers = [
+  {
+    id: 1,
+    img: '/images/01.jpeg',
+    name: 'Emma Clark',
+    position: 'Software Developer',
+    phone: '+1 555-1111',
+    email: 'emma@example.com',
+  },
+  {
+    id: 2,
+    img: '/images/02.jpg',
+    name: 'Henry Baker',
+    position: 'Product Manager',
+    phone: '+1 555-2222',
+    email: 'henry@example.com',
+  },
+  {
+    id: 3,
+    img: '/images/03.jpg',
+    name: 'Sophia Turner',
+    position: 'UX/UI Designer',
+    phone: '+1 555-3333',
+    email: 'sophia@example.com',
+    website: 'sophiaturner.design',
+  },
+  {
+    id: 4,
+    img: '/images/04.jpeg',
+    name: 'William Anderson',
+    position: 'Marketing Coordinator',
+    phone: '+1 555-4444',
+    email: 'william@example.com',
+  },
+  {
+    id: 5,
+    img: '/images/05.jpg',
+    name: 'Ava Harris',
+    position: 'CEO',
+    phone: '+1 555-5555',
+    email: 'ava@example.com',
+    website: 'avaharris.com',
+  },
+  {
+    id: 6,
+    img: '/images/6.png',
+    name: 'Noah Robinson',
+    position: 'Frontend Developer',
+    phone: '+1 555-6666',
+    email: 'noah@example.com',
+    website: 'noahrobinson.dev',
+  },
+];
+
+export default companyMembers;
